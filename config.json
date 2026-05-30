@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersecrypt",
+        "uuid": 501750,
+        "checksum": "mtxg2k"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
